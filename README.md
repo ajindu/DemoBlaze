@@ -44,7 +44,7 @@ WebDriverManager is used to manage browser drivers automatically with the follow
 ![Screenshot 2025-01-10 201116](https://github.com/user-attachments/assets/979a3414-a83d-4603-8201-b95bc4211d81)
 
 
-UI Test Results for DemoBlaze Application:
+UI Test Results for DemoBlaze Application (some) :
 -
 ![Screenshot 2025-01-10 201155](https://github.com/user-attachments/assets/8632f735-1830-40ca-915a-205ae1d28c10)
 ![Screenshot 2025-01-10 201208](https://github.com/user-attachments/assets/804e73e6-2a66-4245-8e1c-266bdbd11d0e)
