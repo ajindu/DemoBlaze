@@ -29,7 +29,7 @@ Project Configuration
 -
 1. Project Directory Structure:
     src/test/java/:  
-    - **pages/**: Contains Clik, Input and OpenBrowser page classes for performing actions on web page elements.  
+    - **pages/**: Contains Click, Input and OpenBrowser page classes for performing actions on web page elements.  
     - **stepDef/**: Contains `CheckoutStep`, `LoginStep`, and `SignupStep` classes, serving as step definitions for Cucumber. It also includes the Hooks class for configuring the start and quit driver methods.  
     - **helper/**: Contains the `Utility` class, which manages WebDriver functions and configurations.  
     - **features/**: Contains Cucumber feature files in `.feature` format, defining the test scenarios.  
